@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "345621690560",
+    "project_id": "finala-65cc6",
+    "storage_bucket": "finala-65cc6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345621690560:android:0d36877e3dff0d36ad5525",
+        "android_client_info": {
+          "package_name": "com.example.a1_finala"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEUaFQhKFMIU33DQETkt7kv3XqxMdqr3I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
